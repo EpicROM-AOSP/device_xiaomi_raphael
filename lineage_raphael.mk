@@ -20,7 +20,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # RisingOs flags
 RISING_CHIPSET := SDM855
-RISING_MAINTAINER := Mohammad-Al-Arabi
+RISING_MAINTAINER := Escobar1945
 RISING_PACKAGE_TYPE := GAPPS
 WITH_GMS := true
 TARGET_CORE_GMS := false
