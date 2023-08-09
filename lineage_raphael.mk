@@ -22,7 +22,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 RISING_CHIPSET := SDM855
 RISING_MAINTAINER := Escobar1945
 RISING_PACKAGE_TYPE := GAPPS
-WITH_GMS := true
+#WITH_GMS := true
 TARGET_CORE_GMS := false
 TARGET_CORE_GMS_EXTRAS := false
 TARGET_HAS_UDFPS := true
